@@ -1,0 +1,1 @@
+Bu proje, HTML5 öğrenme sürecimde edindiğim bilgileri hem pekiştirmek hem de ileride tekrar edebilmek amacıyla geliştirdiğim bir web sitesidir. Öğrenme aşamasında öğrendiğim konuları doğrudan koda dökerek uygulamalı şekilde çalışmayı hedefledim. Böylece hem teorik bilgileri kalıcı hale getirdim hem de pratik yaparak web geliştirme becerilerimi geliştirdim.
